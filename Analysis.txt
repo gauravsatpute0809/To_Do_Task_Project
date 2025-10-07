@@ -1,0 +1,53 @@
+ 🧑‍💼 Customer Requirements: To-Do CLI App
+
+Hi team,
+
+I’m looking for a simple yet powerful command-line To-Do application that helps me manage my daily tasks efficiently. I want it to be fast, intuitive, and usable entirely from the terminal. Here’s what I need:
+
+
+
+ ✅ Core Features
+
+- **Add Task**  
+  I should be able to add a new task with a title, optional description, and due date.
+
+- **List Tasks**  
+  Show all tasks with status (Pending/Completed), due date, and priority.
+
+- **Mark as Completed**  
+  I want to mark tasks as done using their ID or title.
+
+- **Delete Task**  
+  Remove tasks I no longer need.
+
+- **Edit Task**  
+  Update title, description, or due date of an existing task.
+
+- **Search/Filter Tasks**  
+  I should be able to filter tasks by status, due date, or keyword.
+
+---
+
+### 📦 Data Handling
+
+- Store tasks locally (e.g., in a JSON or SQLite file).
+- Persist data between sessions.
+- Handle edge cases like duplicate titles or invalid dates.
+
+---
+
+### 🧪 Bonus Features (If Time Permits)
+
+- **Priority Levels** (Low, Medium, High)
+- **Tagging** (e.g., #work, #personal)
+- **Export Tasks** to a text or CSV file
+- **Reminders** (basic notification or terminal alert for due tasks)
+
+---
+
+### 🖥️ CLI Experience
+
+- Clear help menu (`--help`)
+- Color-coded output for better readability
+- Friendly error messages
+- Fast performance even with hundreds of tasks
