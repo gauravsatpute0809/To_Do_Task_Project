@@ -13,7 +13,6 @@
     const filterAll = document.getElementById("filterAll");
     const filterActive = document.getElementById("filterActive");
     const filterDone = document.getElementById("filterDone");
-gi
     let tasks = [
       { id: 1, text: "Finish the project report", done: false, meta: "Due: Today • 2h" },
       { id: 2, text: "Morning workout — 30 min", done: true, meta: "Completed" },
