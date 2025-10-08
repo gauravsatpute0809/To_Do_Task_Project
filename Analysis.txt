@@ -51,3 +51,5 @@ I’m looking for a simple yet powerful command-line To-Do application that help
 - Color-coded output for better readability
 - Friendly error messages
 - Fast performance even with hundreds of tasks
+
+-------------------
